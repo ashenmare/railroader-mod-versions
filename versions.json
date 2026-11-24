@@ -2,14 +2,14 @@
  "generated": "2026-11-24",
  "mods": {
   "ash/log-grapple": {
-   "github": null,
+   "github": "ashenmare/railroader-log-grapple",
    "name": "Log Grapple",
    "nexus": 2368,
    "retired": false,
    "version": "0.5.5"
   },
   "ash/realistic-densities": {
-   "github": null,
+   "github": "ashenmare/railroader-realistic-densities",
    "name": "Realistic Densities",
    "nexus": 2304,
    "retired": false,
@@ -102,7 +102,7 @@
    "version": "0.2.0"
   },
   "ashenmare/flat-loads": {
-   "github": null,
+   "github": "ashenmare/railroader-flat-loads",
    "name": "MoW Loads on Flats",
    "nexus": 2382,
    "retired": false,
