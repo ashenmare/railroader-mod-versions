@@ -65,7 +65,7 @@
    "version": "0.1.3"
   },
   "ashenmare/car-attendant": {
-   "github": null,
+   "github": "ashenmare/railroader-car-attendant",
    "name": "Car Attendant",
    "nexus": 2052,
    "retired": false,
