@@ -230,7 +230,7 @@
    "version": "0.2.0"
   },
   "ashenmare/passenger-speeds": {
-   "github": null,
+   "github": "ashenmare/railroader-passenger-speeds",
    "name": "Passenger Speeds",
    "nexus": 2342,
    "retired": false,
