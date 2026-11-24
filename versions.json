@@ -1,0 +1,339 @@
+{
+ "generated": "2026-11-24",
+ "mods": {
+  "ash/log-grapple": {
+   "github": null,
+   "name": "Log Grapple",
+   "nexus": 2368,
+   "retired": false,
+   "version": "0.5.5"
+  },
+  "ash/realistic-densities": {
+   "github": null,
+   "name": "Realistic Densities",
+   "nexus": 2304,
+   "retired": false,
+   "version": "0.1.5"
+  },
+  "ash/tag-loads": {
+   "github": null,
+   "name": "Tag Loads",
+   "nexus": 2002,
+   "retired": false,
+   "version": "1.0.0"
+  },
+  "ash/traffic-recorder": {
+   "github": null,
+   "name": "Traffic Recorder",
+   "nexus": 2045,
+   "retired": false,
+   "version": "0.6.1"
+  },
+  "ashenmare/all-oiled-up": {
+   "github": null,
+   "name": "All Oiled Up",
+   "nexus": 2373,
+   "retired": false,
+   "version": "0.2.0"
+  },
+  "ashenmare/auto-host": {
+   "github": null,
+   "name": "Auto Host",
+   "nexus": 2193,
+   "retired": false,
+   "version": "0.1.2"
+  },
+  "ashenmare/aux-fuel-cars": {
+   "github": "ashenmare/RR-Auxiliary-Fuel-Cars",
+   "name": "Aux Fuel Cars and Remote MU",
+   "nexus": 475,
+   "retired": false,
+   "version": "2.3.0"
+  },
+  "ashenmare/beaten-path": {
+   "github": null,
+   "name": "Beaten Path",
+   "nexus": 1923,
+   "retired": false,
+   "version": "1.0.14"
+  },
+  "ashenmare/build-it-yourself": {
+   "github": null,
+   "name": "Build It Yourself",
+   "nexus": 2327,
+   "retired": false,
+   "version": "0.1.3"
+  },
+  "ashenmare/car-attendant": {
+   "github": null,
+   "name": "Car Attendant",
+   "nexus": 2052,
+   "retired": false,
+   "version": "0.1.5"
+  },
+  "ashenmare/casey-jones": {
+   "github": "ashenmare/railroader-casey-jones",
+   "name": "Casey Jones",
+   "nexus": 2250,
+   "retired": false,
+   "version": "0.1.0"
+  },
+  "ashenmare/class-logger": {
+   "github": null,
+   "name": "Track Class Logger",
+   "nexus": 1962,
+   "retired": true,
+   "version": "0.1.14",
+   "why": "The game fixes this itself since 0.6.3."
+  },
+  "ashenmare/crowds-kept": {
+   "github": null,
+   "name": "Crowds Kept",
+   "nexus": 1953,
+   "retired": true,
+   "version": "0.1.5",
+   "why": "The game keeps station crowds itself since 0.6.3."
+  },
+  "ashenmare/faster-fueling": {
+   "github": null,
+   "name": "Faster Fueling",
+   "nexus": 2152,
+   "retired": false,
+   "version": "0.2.0"
+  },
+  "ashenmare/flat-loads": {
+   "github": null,
+   "name": "MoW Loads on Flats",
+   "nexus": 2382,
+   "retired": false,
+   "version": "1.1.0"
+  },
+  "ashenmare/freight-only": {
+   "github": null,
+   "name": "Freight Only",
+   "nexus": 1997,
+   "retired": false,
+   "version": "0.1.5"
+  },
+  "ashenmare/highball": {
+   "github": null,
+   "name": "Highball",
+   "nexus": 2105,
+   "retired": false,
+   "version": "0.1.6"
+  },
+  "ashenmare/industry-car-order": {
+   "github": null,
+   "name": "Industry Car Order",
+   "nexus": 1961,
+   "retired": false,
+   "version": "1.4.1"
+  },
+  "ashenmare/industry-inspector": {
+   "github": null,
+   "name": "Industry Inspector",
+   "nexus": 1905,
+   "retired": false,
+   "version": "1.12.0"
+  },
+  "ashenmare/interchange-maximizer": {
+   "github": null,
+   "name": "Interchange Maximizer",
+   "nexus": 2044,
+   "retired": false,
+   "version": "0.1.7"
+  },
+  "ashenmare/keep-my-place": {
+   "github": null,
+   "name": "Keep My Place",
+   "nexus": 2034,
+   "retired": true,
+   "version": "0.1.3",
+   "why": "The game keeps the mod list position itself since 0.6.3."
+  },
+  "ashenmare/live-piles": {
+   "github": null,
+   "name": "Live Piles",
+   "nexus": 2093,
+   "retired": false,
+   "version": "0.1.12"
+  },
+  "ashenmare/locomotive-gearing": {
+   "github": null,
+   "name": "Locomotive Gearing",
+   "nexus": 2251,
+   "retired": false,
+   "version": "1.0.0"
+  },
+  "ashenmare/lost-and-found": {
+   "github": "ashenmare/railroader-lost-and-found",
+   "name": "Lost and Found",
+   "nexus": 2252,
+   "retired": false,
+   "version": "0.2.0"
+  },
+  "ashenmare/mow-full-costs": {
+   "github": null,
+   "name": "MoW Full Costs",
+   "nexus": 1963,
+   "retired": false,
+   "version": "0.3.11"
+  },
+  "ashenmare/mow-keep-unloading": {
+   "github": null,
+   "name": "MoW Keep Unloading",
+   "nexus": 1964,
+   "retired": false,
+   "version": "0.6.5"
+  },
+  "ashenmare/mow-producer-priority": {
+   "github": null,
+   "name": "MoW Producer Priority",
+   "nexus": 2042,
+   "retired": false,
+   "version": "0.2.2"
+  },
+  "ashenmare/mow-wages": {
+   "github": null,
+   "name": "MoW Pro-Rated Wages",
+   "nexus": 1945,
+   "retired": false,
+   "version": "1.2.6"
+  },
+  "ashenmare/multiscreen": {
+   "github": null,
+   "name": "Multiscreen",
+   "nexus": 1942,
+   "retired": true,
+   "version": "2.0.1",
+   "why": "No longer maintained."
+  },
+  "ashenmare/no-legacy-limits": {
+   "github": "ashenmare/railroader-no-legacy-limits",
+   "name": "No Legacy Speed Limits",
+   "nexus": 2107,
+   "retired": false,
+   "version": "0.1.2"
+  },
+  "ashenmare/oil-conversion": {
+   "github": null,
+   "name": "Oil Conversion",
+   "nexus": 2413,
+   "retired": false,
+   "version": "0.1.0"
+  },
+  "ashenmare/passenger-classes": {
+   "github": null,
+   "name": "Passenger Classes",
+   "nexus": 2412,
+   "retired": false,
+   "version": "0.2.0"
+  },
+  "ashenmare/passenger-speeds": {
+   "github": null,
+   "name": "Passenger Speeds",
+   "nexus": 2342,
+   "retired": false,
+   "version": "0.1.1"
+  },
+  "ashenmare/patient-passengers": {
+   "github": null,
+   "name": "Patient Passengers",
+   "nexus": 1984,
+   "retired": false,
+   "version": "0.2.4"
+  },
+  "ashenmare/picky-client": {
+   "github": null,
+   "name": "Picky Client",
+   "nexus": 2032,
+   "retired": false,
+   "version": "0.2.2"
+  },
+  "ashenmare/quarry-blasting": {
+   "github": null,
+   "name": "Quarry Blasting",
+   "nexus": 2326,
+   "retired": false,
+   "version": "0.1.0"
+  },
+  "ashenmare/railroad-books": {
+   "github": null,
+   "name": "Railroad Books",
+   "nexus": 2013,
+   "retired": false,
+   "version": "0.8.1"
+  },
+  "ashenmare/realistic-fuel-use": {
+   "github": null,
+   "name": "Realistic Steam and Fuel Use",
+   "nexus": 2184,
+   "retired": false,
+   "version": "1.1.1"
+  },
+  "ashenmare/sidetracked": {
+   "github": "ashenmare/railroader-sidetracked",
+   "name": "Sidetracked",
+   "nexus": 2009,
+   "retired": false,
+   "version": "0.1.3"
+  },
+  "ashenmare/station-upgrades": {
+   "github": null,
+   "name": "Station Upgrades",
+   "nexus": 1983,
+   "retired": false,
+   "version": "0.4.0"
+  },
+  "ashenmare/switch-machine": {
+   "github": null,
+   "name": "Switch Machine",
+   "nexus": 2294,
+   "retired": false,
+   "version": "1.1.0"
+  },
+  "ashenmare/tender-love": {
+   "github": null,
+   "name": "Tender Love",
+   "nexus": 2116,
+   "retired": false,
+   "version": "0.1.2"
+  },
+  "ashenmare/train-rating": {
+   "github": null,
+   "name": "Train Rating",
+   "nexus": 1981,
+   "retired": false,
+   "version": "1.0.1"
+  },
+  "ashenmare/used-equipment": {
+   "github": null,
+   "name": "Used Equipment",
+   "nexus": 1980,
+   "retired": false,
+   "version": "0.6.3"
+  },
+  "ashenmare/waybill-rebill": {
+   "github": null,
+   "name": "Waybill Rebill",
+   "nexus": 2283,
+   "retired": false,
+   "version": "0.1.11"
+  },
+  "ashenmare/weed-sprayer": {
+   "github": null,
+   "name": "Weed Sprayer",
+   "nexus": 1996,
+   "retired": false,
+   "version": "0.2.17"
+  },
+  "ashenmare/work-orders": {
+   "github": null,
+   "name": "MoW Work Orders",
+   "nexus": 1929,
+   "retired": false,
+   "version": "1.7.3"
+  }
+ },
+ "schema": 1
+}
