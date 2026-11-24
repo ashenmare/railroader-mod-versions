@@ -248,7 +248,7 @@
    "name": "Picky Client",
    "nexus": 2032,
    "retired": false,
-   "version": "0.2.2"
+   "version": "0.2.4"
   },
   "ashenmare/quarry-blasting": {
    "github": null,
