@@ -223,7 +223,7 @@
    "version": "0.1.0"
   },
   "ashenmare/passenger-classes": {
-   "github": null,
+   "github": "ashenmare/railroader-passenger-classes",
    "name": "Passenger Classes",
    "nexus": 2412,
    "retired": false,
