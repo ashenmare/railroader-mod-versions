@@ -95,7 +95,7 @@
    "why": "The game keeps station crowds itself since 0.6.3."
   },
   "ashenmare/faster-fueling": {
-   "github": null,
+   "github": "ashenmare/railroader-faster-fueling",
    "name": "Faster Fueling",
    "nexus": 2152,
    "retired": false,
