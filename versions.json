@@ -20,7 +20,7 @@
    "name": "Tag Loads",
    "nexus": 2002,
    "retired": false,
-   "version": "1.0.0"
+   "version": "1.1.0"
   },
   "ash/traffic-recorder": {
    "github": null,
