@@ -20,7 +20,7 @@
    "name": "Tag Loads",
    "nexus": 2002,
    "retired": false,
-   "version": "1.0.0"
+   "version": "1.1.0"
   },
   "ash/traffic-recorder": {
    "github": null,
@@ -227,7 +227,7 @@
    "name": "Passenger Classes",
    "nexus": 2412,
    "retired": false,
-   "version": "0.2.0"
+   "version": "0.3.0"
   },
   "ashenmare/passenger-speeds": {
    "github": "ashenmare/railroader-passenger-speeds",
