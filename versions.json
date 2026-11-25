@@ -187,11 +187,11 @@
    "version": "0.6.5"
   },
   "ashenmare/mow-producer-priority": {
-   "github": null,
+   "github": "ashenmare/railroader-mow-producer-priority",
    "name": "MoW Producer Priority",
    "nexus": 2042,
    "retired": false,
-   "version": "0.2.2"
+   "version": "1.0.0"
   },
   "ashenmare/mow-wages": {
    "github": null,
