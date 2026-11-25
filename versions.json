@@ -20,7 +20,7 @@
    "name": "Tag Loads",
    "nexus": 2002,
    "retired": false,
-   "version": "1.1.0"
+   "version": "1.0.0"
   },
   "ash/traffic-recorder": {
    "github": null,
@@ -325,7 +325,7 @@
    "name": "Weed Sprayer",
    "nexus": 1996,
    "retired": false,
-   "version": "0.2.17"
+   "version": "0.2.18"
   },
   "ashenmare/work-orders": {
    "github": null,
